@@ -1,4 +1,3 @@
-# RPGLE-Project
 
 ‘Employee Leave Management System’ allows employees to apply for leaves, check leave balance, approved, leaves, holiday list etc. It tracks leave data accurately which is used for automated payroll processing. For the users it is useful to request for leave and comp offs as well, and it is also beneficial to cancel the leave directly before the approval of the request. 
 
